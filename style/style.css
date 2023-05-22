@@ -62,7 +62,6 @@ section{
 
 section.com-imagem{
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.459);
-    background-size: cover;
 }
 
 section.com-imagem p {
@@ -72,10 +71,12 @@ section.com-imagem p {
 
 section#c1{
     background: url(../image/background001.jpg) center center no-repeat fixed;
+    background-size: cover;
 }
 
 section#c2{
     background: url(../image/background002.jpg) center center no-repeat fixed;
+    background-size: cover;
 }
 
 footer{
